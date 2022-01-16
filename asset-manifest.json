@@ -1,23 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e9c3495.chunk.css",
-    "main.js": "/static/js/main.7f7305c3.chunk.js",
-    "main.js.map": "/static/js/main.7f7305c3.chunk.js.map",
+    "main.css": "/static/css/main.169fe907.chunk.css",
+    "main.js": "/static/js/main.bab14882.chunk.js",
+    "main.js.map": "/static/js/main.bab14882.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.d68d4299.js",
     "runtime-main.js.map": "/static/js/runtime-main.d68d4299.js.map",
-    "static/js/2.38634c11.chunk.js": "/static/js/2.38634c11.chunk.js",
-    "static/js/2.38634c11.chunk.js.map": "/static/js/2.38634c11.chunk.js.map",
+    "static/css/2.89c3948f.chunk.css": "/static/css/2.89c3948f.chunk.css",
+    "static/js/2.59bcaf57.chunk.js": "/static/js/2.59bcaf57.chunk.js",
+    "static/js/2.59bcaf57.chunk.js.map": "/static/js/2.59bcaf57.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9e9c3495.chunk.css.map": "/static/css/main.9e9c3495.chunk.css.map",
-    "static/js/2.38634c11.chunk.js.LICENSE.txt": "/static/js/2.38634c11.chunk.js.LICENSE.txt",
+    "static/css/2.89c3948f.chunk.css.map": "/static/css/2.89c3948f.chunk.css.map",
+    "static/css/main.169fe907.chunk.css.map": "/static/css/main.169fe907.chunk.css.map",
+    "static/js/2.59bcaf57.chunk.js.LICENSE.txt": "/static/js/2.59bcaf57.chunk.js.LICENSE.txt",
     "static/media/hammer.743d332f.png": "/static/media/hammer.743d332f.png",
     "static/media/label6.5b6747ff.png": "/static/media/label6.5b6747ff.png",
-    "static/media/lights.c9c5e86e.jpeg": "/static/media/lights.c9c5e86e.jpeg"
+    "static/media/near-protocol-near-logo.3c418991.svg": "/static/media/near-protocol-near-logo.3c418991.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d68d4299.js",
-    "static/js/2.38634c11.chunk.js",
-    "static/css/main.9e9c3495.chunk.css",
-    "static/js/main.7f7305c3.chunk.js"
+    "static/css/2.89c3948f.chunk.css",
+    "static/js/2.59bcaf57.chunk.js",
+    "static/css/main.169fe907.chunk.css",
+    "static/js/main.bab14882.chunk.js"
   ]
 }
