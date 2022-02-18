@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.72d04adb.css",
-    "main.js": "/static/js/main.482f832e.js",
-    "static/media/label6.png": "/static/media/label6.5b6747ffff88595331e8.png",
+    "main.css": "/static/css/main.62a6ce61.css",
+    "main.js": "/static/js/main.d31a9347.js",
+    "static/media/nfts_main2.png": "/static/media/nfts_main2.5dd10a4e9eb1ffb0b313.png",
+    "static/media/light.jpeg": "/static/media/light.51bbc4103c00f97efd17.jpeg",
     "static/media/hammer.png": "/static/media/hammer.743d332f276502f37fd6.png",
+    "static/media/etna.otf": "/static/media/etna.a17cb1da22c3278ad0ba.otf",
     "static/media/doc-img.png": "/static/media/doc-img.e24e74e9269311a73cc6.png",
     "static/media/near-protocol-near-logo.svg": "/static/media/near-protocol-near-logo.3c4189913e63376b34caf15cec488d84.svg",
     "index.html": "/index.html",
-    "main.72d04adb.css.map": "/static/css/main.72d04adb.css.map",
-    "main.482f832e.js.map": "/static/js/main.482f832e.js.map"
+    "main.62a6ce61.css.map": "/static/css/main.62a6ce61.css.map",
+    "main.d31a9347.js.map": "/static/js/main.d31a9347.js.map"
   },
   "entrypoints": [
-    "static/css/main.72d04adb.css",
-    "static/js/main.482f832e.js"
+    "static/css/main.62a6ce61.css",
+    "static/js/main.d31a9347.js"
   ]
 }
