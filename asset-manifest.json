@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.62a6ce61.css",
-    "main.js": "/static/js/main.d31a9347.js",
+    "main.css": "/static/css/main.ccb5aabb.css",
+    "main.js": "/static/js/main.fb2c75e2.js",
     "static/media/nfts_main2.png": "/static/media/nfts_main2.5dd10a4e9eb1ffb0b313.png",
-    "static/media/light.jpeg": "/static/media/light.51bbc4103c00f97efd17.jpeg",
     "static/media/hammer.png": "/static/media/hammer.743d332f276502f37fd6.png",
     "static/media/etna.otf": "/static/media/etna.a17cb1da22c3278ad0ba.otf",
     "static/media/doc-img.png": "/static/media/doc-img.e24e74e9269311a73cc6.png",
     "static/media/near-protocol-near-logo.svg": "/static/media/near-protocol-near-logo.3c4189913e63376b34caf15cec488d84.svg",
     "index.html": "/index.html",
-    "main.62a6ce61.css.map": "/static/css/main.62a6ce61.css.map",
-    "main.d31a9347.js.map": "/static/js/main.d31a9347.js.map"
+    "main.ccb5aabb.css.map": "/static/css/main.ccb5aabb.css.map",
+    "main.fb2c75e2.js.map": "/static/js/main.fb2c75e2.js.map"
   },
   "entrypoints": [
-    "static/css/main.62a6ce61.css",
-    "static/js/main.d31a9347.js"
+    "static/css/main.ccb5aabb.css",
+    "static/js/main.fb2c75e2.js"
   ]
 }
